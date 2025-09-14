@@ -1,0 +1,28 @@
+.sample{
+
+    background-color: rgb(162, 128, 167);
+    color: rgb(41, 32, 32);
+    margin: 30px, 30px ;
+    padding: 20px, 20px ;
+    border-radius: 10px;
+    width: 100%;
+
+}
+
+#ref{
+    color: rgb(20, 2, 2);
+
+}
+
+.sample_2{
+    
+    background-color: rgb(188, 143, 224);
+    color: rgb(24, 22, 23);
+    margin: 30px, 30px ;
+    padding: 20px, 20px ;
+    text-align: center;
+    border-radius: 10px;
+
+
+}
+

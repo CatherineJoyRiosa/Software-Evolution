@@ -1,11 +1,12 @@
 .sample{
 
-    background-color: rgb(162, 128, 167);
+
     color: rgb(41, 32, 32);
     margin: 30px, 30px ;
     padding: 20px, 20px ;
     border-radius: 10px;
     width: 100%;
+    border: 2px solid rgb(41, 32, 32);
 
 }
 
@@ -15,8 +16,8 @@
 }
 
 .sample_2{
-    
-    background-color: rgb(188, 143, 224);
+    margin-top: 2rem;
+    border: 2px solid rgb(41, 32, 32);
     color: rgb(24, 22, 23);
     margin: 30px, 30px ;
     padding: 20px, 20px ;

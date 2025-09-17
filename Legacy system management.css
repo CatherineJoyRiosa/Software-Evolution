@@ -1,0 +1,56 @@
+header{
+  background-color: rgba(128, 21, 92, 0.842) ;
+  color: rgb(241, 235, 235) ;
+  text-align: center;
+  padding: 20px ;
+  font-family: Arial, Helvetica, sans-serif ;
+  font-size: 0.8rem;
+  border: 10px solid rgb(122, 51, 98);
+}
+
+.astig>ul>li>a{
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+            
+
+.astig{
+    margin: 30px, 30px;
+    padding: 20px, 20px;
+    border-width: 10px;
+    border-radius: 50px;
+    box-shadow: 10px;
+    background-color: rgb(128, 94, 123);
+    
+    
+}
+
+.astig:hover {
+  background-color: rgb(75, 72, 75);
+}
+ 
+
+ .multo{
+  background-image: url(mink.jpg);
+  margin: 15px;
+  padding: 20px, 20px;
+  text-align: justify;
+  background-color: rgb(238, 237, 235);
+  color: rgb(17, 15, 15);
+  background-size: cover;
+  
+}
+
+ nav ul{
+   list-style-type: none;
+   padding: 10px;
+   justify-content: center;
+   display: flex;
+ }
+
+ h3{
+  text-align: left;
+ }
+
+ 
